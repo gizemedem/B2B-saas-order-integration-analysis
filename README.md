@@ -15,3 +15,48 @@ In B2B SaaS solutions, seamless data synchronization between the e-commerce plat
 *   `📁 documentation/`: User Stories, Functional Requirements, API Mapping.
 *   `📁 sql-scripts/`: Queries for checking stock, price, and order data consistency.
 *   `📁 testing/`: User Acceptance Testing (UAT) scenarios and test cases.
+
+## 🎯 Business Problem
+- Orders not properly synced to ERP
+- Price mismatches between systems
+- Stock inconsistencies
+- Missing transaction records
+
+---
+
+## 👩‍💼 My Role
+Business Analyst responsible for:
+- Requirement analysis
+- Process mapping (AS-IS / TO-BE)
+- User story creation
+- SQL-based data validation
+- UAT test scenario design
+
+---
+
+## 🧱 Data Model
+- Customers
+- Products
+- Orders
+- OrderItems
+- ERP_Transactions
+
+---
+
+## 🔍 Key Findings
+- Price inconsistencies detected
+- Missing ERP synchronization records
+- Failed stock validation cases
+
+---
+
+## 🛠️ Tools Used
+- SQL (SELECT, JOIN, GROUP BY, CTE)
+- GitHub
+- Excel (test scenarios)
+- Business Analysis techniques
+
+---
+
+## 📊 Outcome
+This project demonstrates end-to-end Business Analysis capability in a real-world SaaS integration scenario.
